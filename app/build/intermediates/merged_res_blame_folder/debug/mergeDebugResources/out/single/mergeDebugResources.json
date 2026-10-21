@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "unisanta.br.myapplication.app-debug-37:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "unisanta.br.myapplication.app-main-39:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "unisanta.br.myapplication.app-debug-37:/drawable_ic_launcher_background.xml.flat",
+        "source": "unisanta.br.myapplication.app-main-39:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "unisanta.br.myapplication.app-debug-37:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "unisanta.br.myapplication.app-main-39:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "unisanta.br.myapplication.app-debug-37:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "unisanta.br.myapplication.app-main-39:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "unisanta.br.myapplication.app-debug-37:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "unisanta.br.myapplication.app-main-39:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "unisanta.br.myapplication.app-debug-37:/layout_item_filme.xml.flat",
+        "source": "unisanta.br.myapplication.app-main-39:/layout/item_filme.xml"
+    },
+    {
+        "merged": "unisanta.br.myapplication.app-debug-37:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "unisanta.br.myapplication.app-main-39:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "unisanta.br.myapplication.app-debug-37:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "unisanta.br.myapplication.app-main-39:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "unisanta.br.myapplication.app-debug-37:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "unisanta.br.myapplication.app-main-39:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "unisanta.br.myapplication.app-debug-37:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "unisanta.br.myapplication.app-main-39:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "unisanta.br.myapplication.app-debug-37:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "unisanta.br.myapplication.app-main-39:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "unisanta.br.myapplication.app-debug-37:/layout_activity_main.xml.flat",
+        "source": "unisanta.br.myapplication.app-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "unisanta.br.myapplication.app-debug-37:/layout_activity_filmes.xml.flat",
+        "source": "unisanta.br.myapplication.app-main-39:/layout/activity_filmes.xml"
+    },
+    {
+        "merged": "unisanta.br.myapplication.app-debug-37:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "unisanta.br.myapplication.app-main-39:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "unisanta.br.myapplication.app-debug-37:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "unisanta.br.myapplication.app-main-39:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "unisanta.br.myapplication.app-debug-37:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "unisanta.br.myapplication.app-main-39:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "unisanta.br.myapplication.app-debug-37:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "unisanta.br.myapplication.app-main-39:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "unisanta.br.myapplication.app-debug-37:/xml_data_extraction_rules.xml.flat",
+        "source": "unisanta.br.myapplication.app-main-39:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "unisanta.br.myapplication.app-debug-37:/xml_backup_rules.xml.flat",
+        "source": "unisanta.br.myapplication.app-main-39:/xml/backup_rules.xml"
+    }
+]

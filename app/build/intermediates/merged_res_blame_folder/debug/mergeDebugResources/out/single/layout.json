@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "unisanta.br.myapplication.app-mergeDebugResources-36:/layout/activity_filmes.xml",
+        "source": "unisanta.br.myapplication.app-main-39:/layout/activity_filmes.xml"
+    },
+    {
+        "merged": "unisanta.br.myapplication.app-mergeDebugResources-36:/layout/activity_main.xml",
+        "source": "unisanta.br.myapplication.app-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "unisanta.br.myapplication.app-mergeDebugResources-36:/layout/item_filme.xml",
+        "source": "unisanta.br.myapplication.app-main-39:/layout/item_filme.xml"
+    }
+]

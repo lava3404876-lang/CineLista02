@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:fillViewport="true">
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:orientation="vertical" android:gravity="center" android:padding="28dp">
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:text="CINELISTA" android:textColor="#146C60" android:textSize="36sp"
+            android:textStyle="bold" android:letterSpacing="0.08" />
+        <TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:text="Seu cinema, suas escolhas." android:textSize="16sp" android:layout_marginTop="8dp"
+            android:layout_marginBottom="28dp" />
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent" android:layout_height="wrap_content"
+            app:cardCornerRadius="24dp" app:strokeWidth="0dp" app:cardElevation="2dp">
+            <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:orientation="vertical" android:padding="24dp">
+                <TextView android:layout_width="match_parent" android:layout_height="wrap_content"
+                    android:text="Acesse sua coleção" android:textSize="22sp" android:textStyle="bold" />
+                <EditText android:id="@+id/edt_email_usuario" android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:minHeight="56dp" android:layout_marginTop="20dp"
+                    android:hint="Seu e-mail" android:inputType="textEmailAddress" />
+                <EditText android:id="@+id/edt_senha_usuario" android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:minHeight="56dp"
+                    android:hint="Sua senha" android:inputType="textPassword" />
+                <Button android:id="@+id/btn_entrar" android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:layout_marginTop="20dp" android:text="Acessar coleção" />
+                <Button android:id="@+id/btn_cadastrar" style="@style/Widget.Material3.Button.OutlinedButton"
+                    android:layout_width="match_parent" android:layout_height="wrap_content" android:text="Criar cadastro" />
+            </LinearLayout>
+        </com.google.android.material.card.MaterialCardView>
+    </LinearLayout>
+</ScrollView>

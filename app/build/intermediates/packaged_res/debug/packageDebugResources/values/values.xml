@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="adicionar_filme">Guardar na coleção</string>
+    <string name="app_name">CineLista</string>
+    <string name="cancelar_edicao">Descartar alterações</string>
+    <string name="colecao_total">Minha coleção · %1$d filmes</string>
+    <string name="editar">Ajustar filme</string>
+    <string name="filme_salvo">Coleção atualizada!</string>
+    <string name="filmes_favoritos">Minha coleção</string>
+    <string name="foto_filme">Foto de %1$s</string>
+    <string name="foto_hint">URL da foto (https://…)</string>
+    <string name="lista_vazia">Nenhum favorito ainda. Adicione seu primeiro filme acima.</string>
+    <string name="nome_filme">Nome do filme</string>
+    <string name="nota_filme">★ %1$.1f / 10</string>
+    <string name="nota_hint">Nota (0 a 10)</string>
+    <string name="salvar_alteracoes">Atualizar filme</string>
+    <style name="Base.Theme.TP1410" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">#146C60</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSecondary">#B86A32</item>
+        <item name="android:windowBackground">#F4F6F3</item>
+        <item name="colorSurface">#FFFFFF</item>
+        <item name="android:colorBackground">#F4F6F3</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+    <style name="Theme.TP1410" parent="Base.Theme.TP1410"/>
+</resources>

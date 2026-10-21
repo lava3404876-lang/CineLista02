@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CineLista</string>
+    <string name="filmes_favoritos">Minha coleção</string>
+    <string name="nome_filme">Nome do filme</string>
+    <string name="nota_hint">Nota (0 a 10)</string>
+    <string name="foto_hint">URL da foto (https://…)</string>
+    <string name="adicionar_filme">Guardar na coleção</string>
+    <string name="salvar_alteracoes">Atualizar filme</string>
+    <string name="cancelar_edicao">Descartar alterações</string>
+    <string name="editar">Ajustar filme</string>
+    <string name="filme_salvo">Coleção atualizada!</string>
+    <string name="lista_vazia">Nenhum favorito ainda. Adicione seu primeiro filme acima.</string>
+    <string name="nota_filme">★ %1$.1f / 10</string>
+    <string name="foto_filme">Foto de %1$s</string>
+<string name="colecao_total">Minha coleção · %1$d filmes</string></resources>
+
